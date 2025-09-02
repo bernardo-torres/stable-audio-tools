@@ -15,7 +15,7 @@ setup(
         'gradio>=5.20.0',
         'huggingface_hub',
         'importlib-resources==5.12.0',
-        'k-diffusion==0.1.1',
+        'k-diffusion>=0.1.1',
         'laion-clap==1.1.4',
         'local-attention==1.8.6',
         'pandas',
