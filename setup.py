@@ -13,7 +13,6 @@ setup(
         'einops',
         'einops-exts',
         'ema-pytorch==0.2.3',
-        'encodec==0.1.1',
         'gradio>=5.20.0',
         'huggingface_hub',
         'importlib-resources==5.12.0',
