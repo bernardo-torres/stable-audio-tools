@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),  
     install_requires=[
         'alias-free-torch==0.0.6',
-        'auraloss=>0.4.0',
+        'auraloss>=0.4.0',
         'descript-audio-codec==1.0.0',
         'einops',
         'einops-exts',
